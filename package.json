@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "@applitools/eyes.sdk.core": "^1.11.0",
-    "@applitools/functional-commons": "^1.0.19",
+    "@applitools/functional-commons": "^1.6.0",
     "@applitools/http-commons": "^1.1.1",
     "cosmiconfig": "^5.0.6",
     "cssom": "git+https://github.com/amitzur/CSSOM.git#925260ff2c8f8387cf76df4d5776a06044a644c8",
