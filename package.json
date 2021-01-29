@@ -43,7 +43,7 @@
     "he": "^1.2.0",
     "lodash.mapkeys": "^4.6.0",
     "lodash.mapvalues": "^4.6.0",
-    "mime-types": "^2.1.20",
+    "mime-types": "^2.1.28",
     "mkdirp": "^0.5.1",
     "node-fetch": "^2.2.0",
     "throat": "^4.1.0"
