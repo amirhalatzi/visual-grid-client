@@ -38,7 +38,7 @@
     "@applitools/eyes.sdk.core": "^1.11.0",
     "@applitools/functional-commons": "^1.0.19",
     "@applitools/http-commons": "^1.1.1",
-    "cosmiconfig": "^5.0.6",
+    "cosmiconfig": "^5.2.1",
     "cssom": "git+https://github.com/amitzur/CSSOM.git#925260ff2c8f8387cf76df4d5776a06044a644c8",
     "he": "^1.2.0",
     "lodash.mapkeys": "^4.6.0",
